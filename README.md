@@ -1,4 +1,4 @@
-<img src="images/tio-and-mishy.png" align="left" height="85">
+<img src="images/tio-and-mishy.png" align="left" height="70">
 
 ## Hello and Welcome to My GitHub Profile
 
@@ -10,13 +10,10 @@ I'm Seth! I'm a self-taught web developer and translator with a passion for all 
 - 📫 Feel free to [contact me](https://sethclydesdale.github.io/#main-contact) if you have any questions.
 
 #### 好きな諺
+1. 習うより慣れろ
+2. 石の上にも三年
+3. 七転び八起き
 
-> 習うより慣れろ
->
-> 石の上にも三年
-> 
-> 七転び八起き
-
-<p align="center">
-  <a href="https://sethclydesdale.github.io/cunny-code/404"><img src="images/arisu.gif" title="YES!ロリータNO!タッチ" alt="Arisu"><a/>
+<p title="YES!ロリータNO!タッチ">
+  <a href="https://sethclydesdale.github.io/cunny-code/404"><img src="images/arisu.gif" alt="Arisu"><a/>
 </p>
