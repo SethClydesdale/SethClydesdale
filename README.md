@@ -4,7 +4,7 @@ I'm Seth! I'm a self-taught web developer and translator with a passion for all 
 
 - 🎮 I like studying Japanese, translating, programming, gaming, anime, and cute things.
 - 🛠 I'm currently working on Japanese language learning software to help myself and others learn the language.
-- 🏯 Check out some of my favorite Japanese language learning resources [here](https://github.com/stars/SethClydesdale/lists/japanese-resources).
+- 🏯 Check out some of my favorite Japanese language learning resources on GitHub [here](https://github.com/stars/SethClydesdale/lists/japanese-resources).
 - 📫 Feel free to [contact me](https://sethclydesdale.github.io/#main-contact) if you have any questions.
 
 #### 好きな諺
