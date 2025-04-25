@@ -1,3 +1,5 @@
+<img src="images/tio-and-mishy.png" align="left" height="85">
+
 ## Hello and Welcome to My GitHub Profile
 
 I'm Seth! I'm a self-taught web developer and translator with a passion for all things Japanese. I dabble in various fields, but some of my specialties are Japanese language learning software and manga translations. You can browse a list of my featured projects on my [GitHub Page](https://sethclydesdale.github.io/#featured-projects) or below!
@@ -15,6 +17,6 @@ I'm Seth! I'm a self-taught web developer and translator with a passion for all 
 > 
 > 七転び八起き
 
-<!---<p align="center">
-  <img src="images/">
-</p>--->
+<p align="center">
+  <a href="https://sethclydesdale.github.io/cunny-code/404"><img src="images/arisu.gif" title="YES!ロリータNO!タッチ" alt="Arisu"><a/>
+</p>
