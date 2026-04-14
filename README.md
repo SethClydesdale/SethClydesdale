@@ -14,6 +14,7 @@ I'm Seth! I'm a self-taught web developer and translator with a passion for all 
 2. 石の上にも三年
 3. 七転び八起き
 
-<p title="YES!ロリータNO!タッチ">
+<p title="かわいいは正義">
+  <img src="images/hikari.png" alt="Hikari">
   <a href="https://sethclydesdale.github.io/cunny-code/404"><img src="images/arisu.gif" alt="Arisu"><a/>
 </p>
